@@ -1,0 +1,28 @@
+.card{
+   
+    border:none;
+    width:45vw;
+    padding:40px;
+    position:absolute;
+    top:60%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background:wheat(205,46%,30%,1);
+    background:rgb(35, 145, 141);
+}
+.card  h1,h6{
+    color:#fff27a;
+    font-family: 'Calibri';
+}
+label{
+    color:#fff27a;
+}
+
+.image{
+    height:657px;
+    background-size:cover; width:auto;
+    background-image:url("https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2021/09/10045333/Job-Searching-Online-11-Best-Practices-You-Need-to-Know-2-2-1024x512.jpg");
+    object-fit: contain;
+  }
+
+
